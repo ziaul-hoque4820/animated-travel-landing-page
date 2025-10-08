@@ -1,10 +1,10 @@
-# Travling-Landing-Page 
+# Animated Ttravel Landing Page 
 A modern travel website UI built with HTML, CSS, and JavaScript and GSAP inspired by the-
 [MNTN - Landing Page Figma Design](https://www.figma.com/community/file/788675347108478517).
 
 ## 🔗 Live Demo
 
-🌐 [MNTN - Landing Page]()
+🌐 [MNTN - Landing Page](https://animated-travel-landing-page.vercel.app/)
 
 ## 📸 Preview
 
@@ -24,7 +24,7 @@ This project is based on the Figma design available here:
 
 ### ⚙️ Installation & Setup
 ```bash
-    git clone https://github.com/ziaul-hoque4820/animated-travel-landing-page.git
+git clone https://github.com/ziaul-hoque4820/animated-travel-landing-page.git
 ```
 * **VS Code Live Server** extension → Right‑click `index.html` → **Open with Live Server**
 ```bash
